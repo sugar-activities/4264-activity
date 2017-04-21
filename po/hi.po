@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# translation of acoustic-measure-activity.po to Hindi
+# G Karunakar <karunakar@indlinux.org>, 2007.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: acoustic-measure-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-27 00:33-0400\n"
+"PO-Revision-Date: 2011-10-14 04:24+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Distance"
+msgstr "दूरी"
+
+#: activity.py:162
+msgid "Atmosphere"
+msgstr "वातावरण"
+
+#: activity.py:165
+msgid "Custom metric"
+msgstr ""
+
+#: activity.py:187
+msgid ""
+"To measure the distance between two laptops, you must first share this "
+"Activity."
+msgstr "दो लॅपटॉप की बीच की दूरी जानने के लिए पहले ये कार्य साझा करें."
+
+#: activity.py:189
+msgid "Press the button to measure the distance to another laptop"
+msgstr "दूसरे लॅपटॉप की बीच की दूरी जानने के लिए यह कुंजी दबाएँ"
+
+#: activity.py:191
+msgid "Preparing to measure distance"
+msgstr "दूरी मापने की तैयारी की जा रही है"
+
+#: activity.py:192
+msgid "Ready to make a measurement.  Waiting for partner to be ready."
+msgstr "मापने के लिए तैयार. साथी के तैयार होने का इंतज़ार किया जा रहा है."
+
+#: activity.py:194
+msgid "Recording sound from each laptop."
+msgstr "प्रत्येक लैपटॉप से आवाज़ रेकॉर्ड."
+
+#: activity.py:195
+msgid "Processing recorded audio."
+msgstr "रेकॉर्ड किए आवाज़ को प्रोसेस किया जा रहा है."
+
+#: activity.py:197
+msgid "This activity already has two participants, so you cannot join."
+msgstr "इस कार्य में पहले से ही दो सहभागी है, इसलिए आप शामिल नहीं हो सकते हैं."
+
+#: activity.py:200
+msgid "Begin Measuring Distance"
+msgstr "दूरी मापना शुरु करें"
+
+#: activity.py:201
+msgid "Stop Measuring Distance"
+msgstr "दूरी नापना रोकें"
+
+#: activity.py:235 smoot_toolbar.py:99
+#, python-format
+#, python-format, fuzzy
+msgid "Measured distance in %s"
+msgstr "मापी गई दूरी मीटर में"
+
+#: activity.py:235 smoot_toolbar.py:30 smoot_toolbar.py:34 smoot_toolbar.py:77
+#: smoot_toolbar.py:100
+msgid "meters"
+msgstr ""
+
+#: atm_toolbars.py:65
+msgid "Temperature (C): "
+msgstr "तापमान (C): "
+
+#: atm_toolbars.py:70
+msgid "Relative Humidity (%): "
+msgstr "संबन्द्धित नमी (%): "
+
+#: atm_toolbars.py:75
+msgid "Speed of Sound (m/s): "
+msgstr "आवाज़ की गति (मी/सेकेंड): "
+
+#: calibration_toolbar.py:28
+msgid "Calibration Offset (meters): "
+msgstr "केलिब्रेशन ऑफ़सेट (मीटर): "
+
+#: smoot_toolbar.py:30 smoot_toolbar.py:35
+msgid "centimeters"
+msgstr "सेन्टीमीटर"
+
+#. TRANS: English units of measure
+#: smoot_toolbar.py:32 smoot_toolbar.py:36
+msgid "inches"
+msgstr "इंचेस"
+
+#: smoot_toolbar.py:32 smoot_toolbar.py:37
+msgid "feet"
+msgstr ""
+
+#: smoot_toolbar.py:32 smoot_toolbar.py:38
+msgid "yards"
+msgstr ""
+
+#: smoot_toolbar.py:33 smoot_toolbar.py:39
+msgid "custom units"
+msgstr ""
+
+#: smoot_toolbar.py:81
+msgid "Choose a unit of measure:"
+msgstr ""
+
+#: smoot_toolbar.py:84
+msgid "select units"
+msgstr ""
+
+#: smoot_toolbar.py:103
+#, python-format
+msgid "%(unit)20.2f %(name)s per meter"
+msgstr ""
+
+#~ msgid "Measured Distance in Meters"
+#~ msgstr "मापी गई दूरी मीटर में"
